@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/nz.jpg" alt="Nigel Zannou" width="150" style="border-radius: 50%;" />
+</p>
+
 # 👋 Nigel Zannou — Data Analyst
 
 **Power BI | SQL | Python | Reporting & Data Visualization**
@@ -39,13 +43,11 @@ Français (natif) · Anglais professionnel (courant)
 ### Chargé de Traitement de Statistiques — Ipsos BVA
 *Mai 2019 – Août 2026*
 
-- Conception et déploiement de questionnaires en JavaScript pour des campagnes d'enquêtes internationales menées auprès de 4 à 5 clients par mois (secteurs luxe et retail), avec un déploiement pouvant couvrir une vingtaine de pays.
-- Conception d'un système de scoring transformant les données d'enquête en indicateurs de performance, afin de faciliter les analyses réalisées par les chargés d'études.
-- Développement de matrices Excel automatisées permettant de produire jusqu'à une centaine de tableaux de bords en 2 à 3 jours pour les principaux clients, réduisant les tâches manuelles et accélérant la livraison des résultats.
-- Contrôle de la qualité, de la cohérence et de la fiabilité des données avant la génération et la diffusion des reportings.
-- Edition des tableaux de bords à la suite du codage de matrices Excel 
-- Publication et mise à disposition des tableaux de bord sur les plateformes clients, garantissant une diffusion rapide et homogène des résultats à l'international.
-
+- Réalisation d'analyses quantitatives sur des données statistiques pour répondre aux problématiques des études et identifier les principaux résultats.
+- Collecte, préparation, traitement et contrôle de données issues de sources multiples avant leur exploitation.
+- Production de reportings et restitutions sous Excel, facilitant la synthèse et l'interprétation des résultats.
+- Contrôle qualité et cohérence des données afin de fiabiliser les résultats avant restitution.
+- Optimisation et automatisation de traitements récurrents sous Excel, réduisant les manipulations manuelles et fiabilisant la production des livrables.
 
 ---
 
@@ -110,4 +112,3 @@ N'hésitez pas à me contacter pour toute question, opportunité ou collaboratio
 - 📧 [nigzan@outlook.fr](mailto:nigzan@outlook.fr)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nigel-zannou-39a029120/)
 - 💻 [GitHub](https://github.com/Nigel95)
-
