@@ -40,7 +40,7 @@ Français (natif) · Anglais professionnel (courant)
 
 ## 💼 Expérience professionnelle
 
-### Chargé de Traitement de Statistiques — Ipsos BVA
+### Chargé de Traitement de Statistiques - Ipsos BVA
 *Mai 2019 – Août 2026*
 
 - Réalisation d'analyses quantitatives sur des données statistiques pour répondre aux problématiques des études et identifier les principaux résultats.
@@ -80,7 +80,7 @@ Consolidation et analyse de **9 655 contenus** du catalogue Amazon Prime Video (
 
 ---
 
-### 🧤 Recrutement des gardiens de but — La performance technique compte plus que la taille
+### 🧤 Recrutement des gardiens de but : La performance technique compte plus que la taille
 **[→ Voir le projet](https://github.com/Nigel95/smart-goalkeeper-scouting)**
 
 Étude statistique sur **195 gardiens de but européens**, visant à déterminer si la taille influence réellement la performance. Développement et comparaison de **3 modèles prédictifs** avec Scikit-Learn, le meilleur expliquant **99 % de la variabilité observée** (R² test : 0,9927). Conclusion : les compétences techniques (réflexes, positionnement, plongeon) priment largement sur la taille — avec des recommandations concrètes pour les clubs et centres de formation.
