@@ -2,7 +2,7 @@
   <img src="img/nz.jpg" alt="Nigel Zannou" width="150" style="border-radius: 50%;" />
 </p>
 
-# 👋 Nigel Zannou — Data Analyst
+#  Nigel Zannou — Data Analyst
 
 **Power BI | SQL | Python | Reporting & Data Visualization**
 
@@ -53,7 +53,7 @@ Français (natif) · Anglais professionnel (courant)
 
 ## 🚀 Projets Data
 
-### 🌍 Évolution démographique mondiale — Anticiper les tendances pour mieux décider
+### 🌍 Évolution démographique mondiale : Anticiper les tendances pour mieux décider
 **[→ Voir le projet](https://github.com/Nigel95/global-population-trends-analysis)**
 
 Analyse de l'évolution démographique de **195 pays sur la période 2000-2021**, avec conception d'un dashboard Power BI intégrant plus de **10 KPI** pour suivre les grandes tendances. L'analyse met en évidence les écarts de croissance démographique entre régions du monde, dans une optique d'aide à la décision (marchés, politiques publiques, expansion internationale).
@@ -62,7 +62,7 @@ Analyse de l'évolution démographique de **195 pays sur la période 2000-2021**
 
 ---
 
-### 🎬 Stratégie de contenu Netflix — Où investir pour maximiser l'engagement ?
+### 🎬 Stratégie de contenu Netflix : Où investir pour maximiser l'engagement ?
 **[→ Voir le projet](https://github.com/Nigel95/netflix-content-strategy-analysis)**
 
 Dashboard Power BI analysant le catalogue Netflix (8 805 titres) afin d'identifier les tendances de contenu par type, année, classification et pays. L'étude met en lumière la dominance des films (70 %), la concentration du catalogue sur un public adulte (TV-MA majoritaire) et la croissance explosive du contenu depuis 2015, avec des recommandations orientées catalogue et audience.
@@ -71,7 +71,7 @@ Dashboard Power BI analysant le catalogue Netflix (8 805 titres) afin d'identifi
 
 ---
 
-### 📦 Audit du catalogue Prime Video — Films, séries et audiences : les leviers de croissance cachés
+### 📦 Audit du catalogue Prime Video : Films, séries et audiences : les leviers de croissance cachés
 **[→ Voir le projet](https://github.com/Nigel95/prime-video-catalog-growth-strategy)**
 
 Consolidation et analyse de **9 655 contenus** du catalogue Amazon Prime Video (SQL, Python, Power BI). L'analyse révèle un catalogue fortement orienté films (80,82 %), une classification tournée vers un public adulte/ado, et une production très concentrée sur les États-Unis — débouchant sur des recommandations stratégiques (diversification internationale, contenu familial, séries originales).
@@ -89,7 +89,7 @@ Consolidation et analyse de **9 655 contenus** du catalogue Amazon Prime Video (
 
 ---
 
-### 🧑‍💼 Risque de turnover — Identifier et prévenir les départs avant qu'ils coûtent cher
+### 🧑‍💼 Risque de turnover : Identifier et prévenir les départs avant qu'ils coûtent cher
 **[→ Voir le projet](https://github.com/Nigel95/employee-attrition-risk-analysis)**
 
 Dashboard RH analysant les données de **1 417 employés** afin d'identifier les facteurs associés à l'attrition (16,3 % de taux global). L'analyse met en évidence une concentration des départs sur certains postes clés, un pic d'attrition chez les nouveaux employés, et des écarts par tranche salariale — avec des recommandations actionnables pour la rétention des talents.
@@ -100,8 +100,8 @@ Dashboard RH analysant les données de **1 417 employés** afin d'identifier les
 
 ## 🎓 Formation
 
-- **Bootcamp Data Analyst** — Jedha, Paris (2023–2024)
-- **Master 2 Chargé d'Étude Économique et Marché** — UPPA (2017–2018), Bac+5
+- **Bootcamp Data Analyst** : Jedha, Paris (2023–2024)
+- **Master 2 Chargé d'Étude Économique et Marché** : UPPA (2017–2018), Bac+5
 
 ---
 
