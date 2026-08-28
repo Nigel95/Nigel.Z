@@ -43,11 +43,12 @@ Français (natif) · Anglais professionnel (courant)
 ### Chargé de Traitement de Statistiques - Ipsos BVA
 *Mai 2019 – Août 2026*
 
-- Réalisation d'analyses quantitatives sur des données statistiques pour répondre aux problématiques des études et identifier les principaux résultats.
-- Collecte, préparation, traitement et contrôle de données issues de sources multiples avant leur exploitation.
-- Production de reportings et restitutions sous Excel, facilitant la synthèse et l'interprétation des résultats.
-- Contrôle qualité et cohérence des données afin de fiabiliser les résultats avant restitution.
-- Optimisation et automatisation de traitements récurrents sous Excel, réduisant les manipulations manuelles et fiabilisant la production des livrables.
+- Déploiement d’enquêtes de conformité pour des clients nationaux et internationaux dans les secteurs du luxe ou du retail, avec une volumétrie allant d’une cinquantaine à près de 1000 répondants lors des grandes campagnes annuelles.
+- Application d'un système de scoring transformant les données d'enquête en indicateurs de performance, facilitant l'analyse et l'interprétation des résultats par les chargés d'études.
+- Automatisation du reporting client : génération de centaines de rapports en 1 à 2 jours , avec une réduction de 70% du temps de production grâce à des matrices Excel automatisées.
+- Édition  de tableaux de bord à partir du codage de matrices Excel afin de restituer les résultats auprès des clients.
+- Publication et mise à disposition des tableaux de bord sur les plateformes clients, garantissant une diffusion homogène des résultats à l’échelle nationale et internationale.
+
 
 ---
 
