@@ -54,8 +54,17 @@ Français (natif) · Anglais professionnel (courant)
 
 ## 🚀 Projets Data
 
+### 📡 Prévention du churn client — Cibler les clients à risque avant qu'ils ne partent
+**[→ Voir le projet](https://github.com/Nigel95/telco-customer-churn-analysis)**
+
+Analyse du churn d'un opérateur télécom (7043 clients) pour identifier les clients à cibler en priorité par des actions de fidélisation. Avec un taux de churn global de 26,54 %, un segment concentre l'essentiel des départs : les clients en contrat mensuel, avec fibre optique et sans support technique, soit 1 796 clients (57,52 % de churn) qui représentent 55,27 % des départs. Recommandations : encourager les contrats longue durée, renforcer l'accompagnement des clients fibre et développer l'accès au support technique.
+
+`Python` `Pandas` `SQL` `Power BI`
+
+---
+
 ### 🌍 Évolution démographique mondiale : Anticiper les tendances pour mieux décider
-**[→ Voir le projet](https://github.com/Nigel95/global-population-trends-analysis)**
+**[→ Voir le projet](https://github.com/Nigel95/World_population_evolution_Analysis)**
 
 Analyse de l'évolution démographique de **195 pays sur la période 2000-2021**, avec conception d'un dashboard Power BI intégrant plus de **10 KPI** pour suivre les grandes tendances. L'analyse met en évidence les écarts de croissance démographique entre régions du monde, dans une optique d'aide à la décision (marchés, politiques publiques, expansion internationale).
 
@@ -82,7 +91,7 @@ Consolidation et analyse de **9 655 contenus** du catalogue Amazon Prime Video (
 ---
 
 ### 🧤 Recrutement des gardiens de but : La performance technique compte plus que la taille
-**[→ Voir le projet](https://github.com/Nigel95/smart-goalkeeper-scouting)**
+**[→ Voir le projet](https://github.com/Nigel95/football-european-goalkeeper-analytics)**
 
 Étude statistique sur **195 gardiens de but européens**, visant à déterminer si la taille influence réellement la performance. Développement et comparaison de **3 modèles prédictifs** avec Scikit-Learn, le meilleur expliquant **99 % de la variabilité observée** (R² test : 0,9927). Conclusion : les compétences techniques (réflexes, positionnement, plongeon) priment largement sur la taille — avec des recommandations concrètes pour les clubs et centres de formation.
 
