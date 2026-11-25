@@ -54,7 +54,7 @@ Français (natif) · Anglais professionnel (courant)
 
 ## 🚀 Projets Data
 
-### 📡 Prévention du churn client — Cibler les clients à risque avant qu'ils ne partent
+### 📡 Prévention du churn client : Cibler les clients à risque avant qu'ils ne partent
 **[→ Voir le projet](https://github.com/Nigel95/telco-customer-churn-analysis)**
 
 Analyse du churn d'un opérateur télécom (7043 clients) pour identifier les clients à cibler en priorité par des actions de fidélisation. Avec un taux de churn global de 26,54 %, un segment concentre l'essentiel des départs : les clients en contrat mensuel, avec fibre optique et sans support technique, soit 1 796 clients (57,52 % de churn) qui représentent 55,27 % des départs. Recommandations : encourager les contrats longue durée, renforcer l'accompagnement des clients fibre et développer l'accès au support technique.
