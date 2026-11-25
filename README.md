@@ -2,7 +2,7 @@
   <img src="img/nz.jpg" alt="Nigel Zannou" width="150" style="border-radius: 50%;" />
 </p>
 
-#  Nigel Zannou - Data Analyst
+#  Nigel ZANNOU - Data Analyst
 
 **Power BI | SQL | Python | Reporting & Data Visualization**
 
