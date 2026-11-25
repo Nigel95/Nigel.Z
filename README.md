@@ -121,4 +121,3 @@ N'hésitez pas à me contacter pour toute question, opportunité ou collaboratio
 
 - 📧 [nigzan@outlook.fr](mailto:nigzan@outlook.fr)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nigel-zannou-39a029120/)
-- 💻 [GitHub](https://github.com/Nigel95)
